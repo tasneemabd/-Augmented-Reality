@@ -1,20 +1,22 @@
 AR-test Project
 
+
 Table of Contents
 Introduction
 Features
 Installation
+Prerequisites
+Steps
 Usage
 Screenshots
 Technologies Used
 Contributing
-License
 Contact
 Introduction
-AR-test is a Unity project designed to demonstrate augmented reality capabilities for Android and iOS platforms. The project provides a foundation for developers to build their own AR applications without needing extensive knowledge of coding.
+AR-test is a Unity project designed to demonstrate augmented reality capabilities for Android and iOS platforms. This project provides a foundation for developers to build their own AR applications without needing extensive knowledge of coding.
 
 Features
-Cross-Platform Support: Works on both Android and iOS devices.
+Cross-Platform Support: Works seamlessly on both Android and iOS devices.
 User-Friendly Interface: Easy to navigate and use.
 No Coding Required: Build AR apps without writing code.
 Real-Time Tracking: Efficient tracking and rendering of AR objects.
@@ -28,34 +30,30 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/tasneemabd/-Augmented-Reality.git
+git clone https://github.com/tasneemabd/Augmented-Reality.git
 Open the Project in Unity:
 
-Open Unity Hub and click on "Open Project." Navigate to the cloned repository and select the project folder.
-
+Open Unity Hub and click on "Open Project."
+Navigate to the cloned repository and select the project folder.
 Install Dependencies:
 
-In Unity, go to Window > Package Manager, and ensure all necessary packages, like AR Foundation, are installed.
-
+In Unity, go to Window > Package Manager.
+Ensure all necessary packages, like AR Foundation, are installed.
 Build and Run:
 
-For Android, ensure you have Android SDK and NDK installed.
-For iOS, make sure you have Xcode installed.
+For Android: Ensure you have Android SDK and NDK installed.
+For iOS: Make sure you have Xcode installed.
 Usage
 Launch the Application:
 
 Open the app on your device.
-
 Interact with AR Elements:
 
 Point your camera at AR markers to view and interact with virtual objects.
-
 Customize:
 
 Modify the AR objects and scripts in Unity to suit your needs.
-
 Screenshots
-
 
 Technologies Used
 Unity: Version 2022.3.35f1 or higher
@@ -66,6 +64,11 @@ Xcode: For building iOS applications
 Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
 
 
 Contact
@@ -73,4 +76,4 @@ For any questions or suggestions, feel free to contact:
 
 Name: Tasneem Shehadeh
 Email: shhadahatasneem@gmail.com
-GitHub: https://github.com/tasneemabd
+GitHub: tasneemabd
