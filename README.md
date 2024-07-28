@@ -1,6 +1,5 @@
 # AR-test Project
 
-![AR-test Logo](link-to-logo-image) <!-- Optional: Include a logo or banner image -->
 
 ## Table of Contents
 
@@ -64,7 +63,6 @@ Customize:
 
 Modify the AR objects and scripts in Unity to suit your needs.
 Screenshots
-<!-- Add links to your screenshots -->
 
 
 Technologies Used
@@ -90,23 +88,3 @@ For any questions or suggestions, feel free to contact:
 Name: Tasneem Shehadeh
 Email: shhadahatasneem@gmail.com
 GitHub: tasneemabd
-vbnet
-Copy code
-
----
-
-### How to Use This Template
-
-1. **Images and Links**: Replace `link-to-logo-image`, `link-to-screenshot1`, and `link-to-screenshot2` with actual URLs or paths to images you want to include in your project.
-
-2. **License File**: If you have a LICENSE file, ensure the reference in the license section is accurate.
-
-3. **Cloning URL**: Make sure the repository URL in the `git clone` command is correct for your project.
-
-4. **Technologies and Requirements**: Update the Unity version and any other technology details as needed to reflect your project's requirements.
-
-5. **Customize as Needed**: Feel free to add any additional sections or modify the content to better suit your project's specifics.
-
-### Rendering Markdown
-
-To see how this README will look, you can preview it using any Markdown editor or directly on platforms like GitH
